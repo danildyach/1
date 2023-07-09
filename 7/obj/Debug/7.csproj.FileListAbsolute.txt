@@ -1,0 +1,8 @@
+E:\проги\GreekBrains\7\7\bin\Debug\7.exe.config
+E:\проги\GreekBrains\7\7\bin\Debug\7.exe
+E:\проги\GreekBrains\7\7\bin\Debug\7.pdb
+E:\проги\GreekBrains\7\7\obj\Debug\7.csproj.AssemblyReference.cache
+E:\проги\GreekBrains\7\7\obj\Debug\7.csproj.SuggestedBindingRedirects.cache
+E:\проги\GreekBrains\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+E:\проги\GreekBrains\7\7\obj\Debug\7.exe
+E:\проги\GreekBrains\7\7\obj\Debug\7.pdb
